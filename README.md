@@ -1,6 +1,7 @@
 # project_3
 
 A new Flutter project.
+Food Delivery Application
 
 ## Getting Started
 
